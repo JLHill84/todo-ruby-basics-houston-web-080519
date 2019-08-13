@@ -10,8 +10,10 @@ def argue(arg)
   return arg
 end
 
-def greeting
-
+def greeting(arg1, arg2)
+  if arg2 == nil
+    return "Error!"
+  end
 end
 
 def return_a_value
