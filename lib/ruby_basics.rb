@@ -16,8 +16,8 @@ def greeting(arg1, arg2)
   end
 end
 
-def return_a_value
-
+def return_a_value(arg)
+  return arg
 end
 
 def last_evaluated_value
