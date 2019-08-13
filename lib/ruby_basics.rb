@@ -20,10 +20,12 @@ def return_a_value(arg="Nice")
   return arg
 end
 
-def last_evaluated_value
+def last_evaluated_value(arg="expert")
+  return arg
 
 end
 
-def pizza_party
+def pizza_party(arg="cheese")
+  return arg
 
 end
